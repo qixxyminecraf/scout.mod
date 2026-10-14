@@ -1,0 +1,7 @@
+{
+  "required": true,
+  "package": "scout.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "client": ["EntityMixin", "ClientPlayerEntityMixin", "MinecraftClientMixin", "InGameHudMixin"],
+  "injectors": { "defaultRequire": 1 }
+}
